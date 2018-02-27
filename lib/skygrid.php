@@ -103,7 +103,7 @@ To use the MasterKey, set it in the config file. Then pass it to any of the abov
 
 
 
-**/
+*/
 
 require_once('/home/bitnami/htdocs/poolbuddy/pages/php-sdk/config/config.php');				      // import config file containg projectID, email , password
 
