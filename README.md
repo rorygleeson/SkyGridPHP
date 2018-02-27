@@ -51,8 +51,8 @@ $query={"properties": {"ph": {"$eq":"8.751"}}} 							       -> where equal to
 (same as) 
 $query={"properties": {"ph":"8.751"}}      						               -> where equal to
 
-Note: Don't forget to add "\" to special chars in a string in PHP.
-Example: $query = "{\"properties\": {\"ph\": {\"\$gt\":\"8.751\"}}}";
+Note: Don't forget to add " \ " to special chars in a string in PHP.
+Example: $query = "{ \"properties \": { \"ph \": { \" \$gt \": \"8.751 \"}}}";
 
 
 
