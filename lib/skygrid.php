@@ -1,6 +1,6 @@
 <?php
 
-/**
+/*
 
 Rory Gleeson (rory@skygrid.io) https://bitbucket.org/Rorygleeson
  
